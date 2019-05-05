@@ -1,0 +1,24 @@
+20190502Z
+1.6
+e1 b
+e2 c
+e3 b
+1.11
+e1 y
+e2 n
+e3 y
+e4 y
+e5 n
+
+e1 normal form
+e2 diverges
+e3 converges to zzz
+
+e1 z
+e2 bb
+e3 qq
+e4 yy
+e5 yy
+e6 aac
+e7 za
+

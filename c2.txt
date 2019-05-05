@@ -1,0 +1,6 @@
+::20190502Z
+::e1 
+half x = x / 2
+square x = x * x
+::e2 
+piTimes x = 3.14 * x
